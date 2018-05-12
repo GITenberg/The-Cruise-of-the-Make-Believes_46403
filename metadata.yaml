@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40999
     wikipedia: http://en.wikipedia.org/wiki/Tom_Gallon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46403#The-Cruise-of-the-Make-Believes
 gutenberg_issued: '2014-07-25'
 gutenberg_type: Text
 identifiers:
